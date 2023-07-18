@@ -1,0 +1,20 @@
+2023-07-18 17:36:00.138 DEBUG [main] [Horse.<init>(Horse.java:35)] - Horse: Создание Horse, имя [Буцефал], скорость [2.4]
+2023-07-18 17:36:00.141 DEBUG [main] [Horse.<init>(Horse.java:35)] - Horse: Создание Horse, имя [Туз Пик], скорость [2.5]
+2023-07-18 17:36:00.141 DEBUG [main] [Horse.<init>(Horse.java:35)] - Horse: Создание Horse, имя [Зефир], скорость [2.6]
+2023-07-18 17:36:00.141 DEBUG [main] [Horse.<init>(Horse.java:35)] - Horse: Создание Horse, имя [Пожар], скорость [2.7]
+2023-07-18 17:36:00.141 DEBUG [main] [Horse.<init>(Horse.java:35)] - Horse: Создание Horse, имя [Лобстер], скорость [2.8]
+2023-07-18 17:36:00.143 DEBUG [main] [Horse.<init>(Horse.java:35)] - Horse: Создание Horse, имя [Пегас], скорость [2.9]
+2023-07-18 17:36:00.143 DEBUG [main] [Horse.<init>(Horse.java:35)] - Horse: Создание Horse, имя [Вишня], скорость [3.0]
+2023-07-18 17:36:00.144 DEBUG [main] [Hippodrome.<init>(Hippodrome.java:27)] - Hippodrome: Создание Hippodrome, лошадей [7]
+2023-07-18 17:36:00.145 INFO [main] [Main.main(Main.java:22)] - Начало скачек. Количество участников: 7
+2023-07-18 17:36:20.778 INFO [main] [Main.main(Main.java:34)] - Окончание скачек. Победитель: Вишня
+2023-07-18 17:42:17.998 DEBUG [main] [Horse.<init>(Horse.java:35)] - Horse: Создание Horse, имя [Буцефал], скорость [2.4]
+2023-07-18 17:42:18.000 DEBUG [main] [Horse.<init>(Horse.java:35)] - Horse: Создание Horse, имя [Туз Пик], скорость [2.5]
+2023-07-18 17:42:18.001 DEBUG [main] [Horse.<init>(Horse.java:35)] - Horse: Создание Horse, имя [Зефир], скорость [2.6]
+2023-07-18 17:42:18.001 DEBUG [main] [Horse.<init>(Horse.java:35)] - Horse: Создание Horse, имя [Пожар], скорость [2.7]
+2023-07-18 17:42:18.001 DEBUG [main] [Horse.<init>(Horse.java:35)] - Horse: Создание Horse, имя [Лобстер], скорость [2.8]
+2023-07-18 17:42:18.001 DEBUG [main] [Horse.<init>(Horse.java:35)] - Horse: Создание Horse, имя [Пегас], скорость [2.9]
+2023-07-18 17:42:18.002 DEBUG [main] [Horse.<init>(Horse.java:35)] - Horse: Создание Horse, имя [Вишня], скорость [3.0]
+2023-07-18 17:42:18.004 DEBUG [main] [Hippodrome.<init>(Hippodrome.java:27)] - Hippodrome: Создание Hippodrome, лошадей [7]
+2023-07-18 17:42:18.004 INFO [main] [Main.main(Main.java:22)] - Начало скачек. Количество участников: 7
+2023-07-18 17:42:38.595 INFO [main] [Main.main(Main.java:34)] - Окончание скачек. Победитель: Вишня
